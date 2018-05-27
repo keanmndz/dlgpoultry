@@ -1,0 +1,14 @@
+language: php
+
+php: 
+  - 7.1
+
+os: windows
+
+before_script:
+  - composer self-update
+  - composer install --no-interaction
+  - php artisan key:generate
+
+script:
+  - vendor/bin/phpunit
