@@ -10,6 +10,10 @@ May also be buggy and have missing files. Might not be updating this anymore but
 
 _This system uses Laravel 5.5 PHP Framework._
 
+###### _Project by: Keena Mendoza & Serine Obviar_
+
+***
+
 ### Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
