@@ -1,8 +1,10 @@
 # DLG Poultry Farm Management System
 
-[![Build Status](https://travis-ci.org/keanmndz/dlg-poultry.svg?branch=master)](https://travis-ci.org/keanmndz/dlg-poultry)
+[![Build Status](https://travis-ci.org/keanmndz/dlgpoultry.svg?branch=master)](https://travis-ci.org/keanmndz/dlgpoultry)
 
 As partial fulfillment of requirements for Capstone 2. Help 2 kids graduate in their bachelor's degree in Information Technology.
+[05/19/2018 Update] Successfully defended this system as our Capstone project and earned Best Capstone for it. Yay!
+May also be buggy and have missing files. Might not be updating this anymore but depends.
 
 This system uses Laravel 5.5 PHP Framework.
 
