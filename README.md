@@ -6,7 +6,7 @@ As partial fulfillment of requirements for Capstone 2. Help 2 kids graduate in t
 
 **[05/19/2018 Update]** Successfully defended this system as our Capstone project and earned Best Capstone for it. Yay!
 
-May also be buggy and have missing files. Might not be updating this anymore but depends.
+May also be buggy and have missing files. Might not be updating this anymore but depends. This is the public repo for the project, the private repo is the _[most likely]_ updated version of the project
 
 _This system uses Laravel 5.5 PHP Framework._
 
