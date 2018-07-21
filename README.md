@@ -2,11 +2,13 @@
 
 [![Build Status](https://travis-ci.org/keanmndz/dlgpoultry.svg?branch=master)](https://travis-ci.org/keanmndz/dlgpoultry)
 
-As partial fulfillment of requirements for Capstone 2. Help 2 kids graduate in their bachelor's degree in Information Technology.
+As partial fulfillment of requirements for Capstone 2. Help 2 kids graduate in their bachelor's degree in Information Technology. _[We did graduate actually]_
 
-**[05/19/2018 Update]** Successfully defended this system as our Capstone project and earned Best Capstone for it. Yay!
+> **[05/19/2018 Update]** Successfully defended this system as our Capstone project and earned Best Capstone for it. Yay!
 
-May also be buggy and have missing files. Might not be updating this anymore but depends. This is the public repo for the project, the private repo is the _[most likely]_ updated version of the project
+May also be buggy and have missing files. Might not be updating this anymore but depends. This is the public repo for the project, the private repo is the _[most likely]_ updated version of the project.
+
+Guide on how to use the system will be added soon.
 
 _This system uses Laravel 5.5 PHP Framework._
 
