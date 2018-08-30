@@ -20,6 +20,7 @@ Massive shoutout to the following for helping get through our university days fo
 * [Microsoft Azure](https://azure.microsoft.com/) (especially for the student credits!)
 * [Laracasts](https://laracasts.com/)
 * [SendGrid](https://sendgrid.com/) (also for the student plan!)
+* To our adviser back in the university, Sir Mark De Vera! Loads of thanks.
 
 ## Important Notes
 
