@@ -10,6 +10,17 @@ As partial fulfillment of requirements for Capstone 2. Help 2 kids graduate in t
 
 May also be buggy and have missing files. Might not be updating this anymore but depends. This is the public repo for the project, the private repo is the _[most likely]_ updated version of the project.
 
+## Special Thanks
+
+Massive shoutout to the following for helping get through our university days for this project.
+
+* GitHub and [GitHub Education](https://education.github.com/pack)
+* [GitKraken](https://www.gitkraken.com/) and [GitKraken Glo](https://www.gitkraken.com/glo)
+* [Travis CI](https://travis-ci.org/)
+* [Microsoft Azure](https://azure.microsoft.com/) (especially for the student credits!)
+* [Laracasts](https://laracasts.com/)
+* [SendGrid](https://sendgrid.com/) (also for the student plan!)
+
 ## Important Notes
 
 * Note that this project uses the Laravel 5.5 PHP Framework. You may check out the Laravel documentation for further information, which has been greatly referenced by the group. Read below.
