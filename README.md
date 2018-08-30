@@ -13,8 +13,10 @@ May also be buggy and have missing files. Might not be updating this anymore but
 * Note that this project uses the Laravel 5.5 PHP Framework. You may check out the Laravel documentation for further information, which has been greatly referenced by the group. Read below.
 * Source is the buggy version of the project.
 * The web application may be viewed at:
-    End User: [https://dlgpoultry.azurewebsites.net/](https://dlgpoultry.azurewebsites.net/)
-    Admin: [https://dlgpoultry.azurewebsites.net/admin](https://dlgpoultry.azurewebsites.net/admin)
+
+End User: [https://dlgpoultry.azurewebsites.net/](https://dlgpoultry.azurewebsites.net/)
+
+Admin: [https://dlgpoultry.azurewebsites.net/admin](https://dlgpoultry.azurewebsites.net/admin)
 
 ## Pre-requisites
 
@@ -38,7 +40,9 @@ May also be buggy and have missing files. Might not be updating this anymore but
 10. Run the application with the command "php artisan serve". The application will only run locally if this command is running on Command Prompt, so make sure that you do not close the window where the command is running. If you need to stop the application, press "CTRL+C" on the Command Prompt window where you ran the "serve" command.
 
 The application should run smoothly if all the steps are followed.
+
 Debug anything needed.
+
 Check out the seeder classes for the credentials of available users.
 
 ###### _Project by: Keena Mendoza & Serine Obviar_
