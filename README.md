@@ -13,8 +13,8 @@ May also be buggy and have missing files. Might not be updating this anymore but
 * Note that this project uses the Laravel 5.5 PHP Framework. You may check out the Laravel documentation for further information, which has been greatly referenced by the group. Read below.
 * Source is the buggy version of the project.
 * The web application may be viewed at:
-⋅⋅⋅End User: [https://dlgpoultry.azurewebsites.net/](https://dlgpoultry.azurewebsites.net/)
-⋅⋅⋅Admin: [https://dlgpoultry.azurewebsites.net/admin](https://dlgpoultry.azurewebsites.net/admin)
+    End User: [https://dlgpoultry.azurewebsites.net/](https://dlgpoultry.azurewebsites.net/)
+    Admin: [https://dlgpoultry.azurewebsites.net/admin](https://dlgpoultry.azurewebsites.net/admin)
 
 ## Pre-requisites
 
